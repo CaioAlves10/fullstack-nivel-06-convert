@@ -40,6 +40,10 @@ function convertCurrency(amount, price, symbol) {
     description.textContent = `${symbol} 1 = ${formatCurrencyBRL(price)}`;
 
     const total = amount * price;
+    
+    if(isNaN(total)) {
+      return alert('Por favor, digite o valor corretamente para converter.');
+    }
 
     result.textContent = `${formatCurrencyBRL(total)}`;
 
