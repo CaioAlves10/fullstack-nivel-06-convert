@@ -3,7 +3,7 @@
 
 ## 💼 Contexto de Negócio
 
-**Convert** é uma aplicação que converte valores na moeda Dolar Americano, Euro e Libra Esterlina em Real Brasileiro.
+**Convert** é uma aplicação que converte valores na moeda Dólar Americano, Euro e Libra Esterlina em Real Brasileiro.
 
 
 ## 💻 Layout
